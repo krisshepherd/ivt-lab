@@ -6,6 +6,8 @@ The application is simplified and deliberately contains bugs.
 
 Travis CI integration test.
 
+branch-B test.
+
 ## Getting started
 
 - The project is implemented in Java 8.
